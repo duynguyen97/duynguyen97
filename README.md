@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, I'm DuyNguyen 👋 💻
 
-<!--
-**duynguyen97/duynguyen97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Software Engineer!
 
-Here are some ideas to get you started:
+I have more than 4+ years of experience working on projects as a developer. A highly motivated and dedicated professional, that is willing to learn new technologies and always deliver the best possible results.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm currently working as Software Engineer.
+- 🌱 I have experience on : .js, .html, .css, .reactjs, .vue & .ts.
+- 👯 Learning all about Open Source.
+
+<br />
+
+---
